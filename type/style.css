@@ -1,0 +1,152 @@
+html{
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+    margin: 0; 
+    padding-bottom: 100px;
+    background-image: url("../images/repas.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.formulaire {
+
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 15px;
+    text-align:center;
+    margin : auto;
+}
+
+.formulaire>p{
+    font-size: 17px;
+
+}
+
+.formulaire>h1{
+    padding-bottom: 15px;
+}
+
+h1 {
+    text-align:center;
+    padding-top:30px;
+    color:black !important;
+}
+
+.text {
+    padding-top:10px;
+}
+
+.text input {
+    height: 50px;
+    border-radius:15px;
+}
+
+#bouton {
+    background-color:white; 
+    color:#626a69; 
+    font-size:20px; 
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
+.sex {
+    color : black;
+}
+
+img{
+    width : 6%;
+}
+
+.navbar{
+    height: 100px;
+    border-bottom: 2px solid black;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 50px;
+    background-color: rgb(197, 89, 170);
+    display: table-row;
+    height: 100px;
+}
+
+p{
+    /* padding-top: 40px; */
+    text-align: center;
+}
+
+h3{
+    color: white !important;
+}
+
+.powered{
+    padding-top: 40px;
+}
+
+#new_mdp{
+    padding-bottom: 40px;
+}
+
+#change_mail{
+    padding-bottom: 20px;
+}
+
+#membre{
+    padding-top: 9px;    
+}
+
+#espace{
+    padding-right: 30px;
+}
+
+.first_paraf{
+    padding-top: 3%;
+    display: block;
+    color: white;
+    width: 100%;
+    font-size: 50px;
+}
+
+.second_paraf{
+    padding-top: 3%;
+    display: block;
+    color: white;
+    width: 100%;
+    font-size: 50px;
+}
+
+.third_paraf{
+    padding-top: 3%;
+    display: block;
+    color: white;
+    width: 100%;
+    font-size: 50px;
+}
+
+.sponso{
+    padding-top: 3%;
+    display: block;
+    color: white;
+    width: 100%;
+    font-size: 50px;
+}
+
+.inscription{
+    border-radius: 15px;
+    font-size: 25px;
+    display: block;
+    padding-bottom: 2%;
+    margin-left: 33%;
+    text-align: center;
+    width: 30%;
+    background-color: rgba(255, 255, 255, 0.5); 
+}
